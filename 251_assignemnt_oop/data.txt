@@ -1,0 +1,15 @@
+
+IN:LLLBBBBB
+OUT: NUll
+
+In:MCCMCCMCC
+OUT:l
+
+In:LLLLLBBB
+OUT:mzzl
+
+IN:BBBBBB
+OUT: Null
+
+IN:BBBB
+OUT: mzz

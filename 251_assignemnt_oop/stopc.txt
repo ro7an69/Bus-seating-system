@@ -1,0 +1,2 @@
+In:LLLLLBBB
+OUT:mzzl

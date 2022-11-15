@@ -1,0 +1,2 @@
+IN:BBBB
+OUT: mzz
